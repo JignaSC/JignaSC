@@ -5,7 +5,7 @@
 - 💬 Ask me about Python, Stats, BigQuery, MongoDB, Machine Learning, Deep Learning</br>
 - 💞️ I’m looking to collaborate on ...</br>
 - 📫 To reach out you can mail on <a href="mailto:chandarana.jigna@gmail.com">Jigna Chandarana</a>.<br></br>
-Let's Connect on [LinkedIn](https://in.linkedin.com/in/jigna-chandarana)
+Let's Connect on <a href="https://in.linkedin.com/in/jigna-chandarana">LinkedIn</a>
 <!---
 JignaSC/JignaSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
