@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Statistics, ML and DL</br>
 - 💬 Ask me about Python, Stats, BigQuery, MongoDB, Machine Learning, Deep Learning</br>
 - 💞️ I’m looking to collaborate on ...</br>
-- 📫 To reach out you can mail on [Jigna Chandarana](mailto:chandarana.jigna@gmail.com)</br>
+- 📫 To reach out you can mail on <a href="mailto:chandarana.jigna@gmail.com">Jigna Chandarana</a>.<br></br>
 Let's Connect on [LinkedIn](https://in.linkedin.com/in/jigna-chandarana)
 <!---
 JignaSC/JignaSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
